@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geekalyssa
-- 👀 I’m interested in Technical Documentation and API Integrations
-- 🌱 I’m currently learning API Documentation
-- 💞️ I’m looking to collaborate on Tech Documentation
+- 👀 I’m interested in No code automation and API Integrations
+- 🌱 I’m currently learning Open AI and Lang Chain
+- 💞️ I’m looking to collaborate on Data Integration
 - 📫 Reach me at alyssa.geek18@gmail.com
 
 <!---
