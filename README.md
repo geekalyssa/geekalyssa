@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya
 - 👀 I’m interested in No code automation and API Integrations
-- 🌱 I’m currently learning Open AI and Lang Chain
+- 🌱 I’m currently learning Open AI API and LangChain with n8n.io
 - 💞️ I’m looking to collaborate on Data Integration
 - 📫 Reach me at priya@processease.pro
 
