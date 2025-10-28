@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Priya
-- 👀 I’m interested in No code automation and API Integrations
-- 🌱 I’m currently learning Open AI API and LangChain with n8n.io
-- 💞️ I’m looking to collaborate on Data Integration
-- 📫 Reach me at hello@processease.pro
+# 👋 Hi, I'm Priya Jain  
+### 🚀 Automation Specialist | Make.com | n8n | Clay | HubSpot | Pipedrive | AI Integration | Python  
 
-<!---
-geekalyssa/geekalyssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build intelligent automations that help SMBs scale faster — from CRM integrations to AI-powered lead enrichment.
+
+**💡 What I Do**
+- CRM Integration (HubSpot, Pipedrive, GoHighLevel)
+- Workflow Automation (Make.com, n8n, Zapier)
+- AI-Powered Business Process Automation
+- Data Pipelines & Webhooks
+- Airtable System Design
+
+**🌐 Portfolio & Links**
+- 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~015653602ca6cd7895)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyajaintech/)
