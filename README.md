@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priya Jain  
 ### 🚀 Automation Specialist | Make.com | n8n | Clay | HubSpot | Pipedrive | AI Integration | Python  
 
-I build intelligent automations that help SMBs scale faster — from CRM integrations to AI-powered lead enrichment.
+I build intelligent automations that help businesses scale faster — from CRM integrations to AI-powered lead enrichment.
 
 **💡 What I Do**
 - CRM Integration (HubSpot, Pipedrive, GoHighLevel)
