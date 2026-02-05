@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Priya  
+# 👋 Hi, I'm Priya | | Top Rated Plus (Upwork)
+
 ### 🚀 Automation Specialist | Airtable | Make.com | n8n | Clay | HubSpot | Pipedrive | AI Integration | Python  
 
 I build intelligent automations that help businesses scale faster — from CRM integrations to AI-powered lead enrichment.
